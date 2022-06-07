@@ -4,7 +4,7 @@
     { 
         public int Id { get; set; }
 
-        public string Thought { get; set; }
+        public string PostContent { get; set; }
 
         public Post()
         {
